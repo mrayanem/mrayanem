@@ -1,15 +1,13 @@
 ## Hello World, I'm Ray, be very welcome!
 
-<!-- <div>
+<div>
   <a href="https://github.com/mrayanem">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrayanem&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   </a>
   <a href="https://github.com/mrayanem">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayanem&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div> -->
-![](https://github.com/mrayanem/blob/master/generated/overview.svg)
-![](https://github.com/mrayanem/blob/master/generated/languages.svg)
+</div>
 
 <div style="display: inline-block"><br>  
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
